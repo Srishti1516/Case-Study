@@ -1,5 +1,5 @@
 # Lending Club Case Study
-Problem Statement:
+**Problem Statement:**
 You work for a consumer finance company which specialises in lending various types of loans to urban customers.
 
 When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
@@ -10,7 +10,7 @@ The aim is to identify patterns which indicate if a person is likely to default,
 
 If one is able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
 
-Analysis:
+**Analysis:**
 1. Grade B has very high defaulter count. 
 This could indicate borrowers with average credit scores 
 So borrowers with this grade should be assessed properly before approving their loan.
